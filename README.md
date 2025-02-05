@@ -17,7 +17,7 @@ A comprehensive and easy-to-use library management application designed to strea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/VALOPURUM/library-management.git
+   git clone https://github.com/VALOPURUM/library-management-app.git
    
 2. Navigate to the project directory:
    cd library-management
